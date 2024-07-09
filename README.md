@@ -16,9 +16,9 @@
 and adapt your web design to ensure it conforms to the constantly changing trends. This, in turn, proves beneficial to your business as you have to keep yourself updated with the latest trends.
 * Accessibility improves your brand reputation: This boosts and strengthens your brand reputation as people with disabilities with positive web experiences write positive reviews and recommend you to others.
 
-  ## Diverse Abilities and Barriers
-  ### Blindness: The user of blindness relies on screen reader and keyboard to navigate application
- #### Example of Barrier:
+## Diverse Abilities and Barriers
+### Blindness: The user of blindness relies on screen reader and keyboard to navigate application
+#### Example of Barrier:
 * Images, controls, and other structural elements that do not have equivalent text alternatives. 
 * Video content that does not have text alternatives and missing control mechanisms.
 * Missing keyboard access.
